@@ -8,7 +8,7 @@
 
  <hr>
  
- <hr>
+
  
 ![login-media](https://user-images.githubusercontent.com/130285446/234919308-1056f3e0-1a15-40b8-b307-046cbc116956.png)
 
